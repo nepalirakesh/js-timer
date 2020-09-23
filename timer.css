@@ -1,0 +1,30 @@
+body{
+
+    background-image: url('wallpaper.jpg');
+    
+}
+.heading{
+   text-align:center;
+}
+.timer{
+    margin-top:15px;
+    text-align:center;
+  
+}
+
+.timer h1{
+    display:inline;
+    font-size: 50px;
+}
+
+.timer-name{
+    text-align:center;
+}
+
+.timer-name p{
+    display:inline;
+    padding:5px;
+    font-size: 12px;
+}
+
+
